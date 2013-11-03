@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "lie-quickeach": "~0.1.1",
-    "lie-some": "~0.1.1",
+    "lie-some": "~0.1.2",
     "lie-apply": "~0.1.0"
   }
 }
